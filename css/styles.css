@@ -3,13 +3,28 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: #AB3C00;
+}
 
+.color-2 {
+background: #4A4939;
+}
 
+.color-3 {
+background: #D6D3A7;
+}
 /* Textures or Patterns*/
+.pattern-1 {
+    background: url();
+}
+.pattern-2 {
+}
 
+/* Imagery - remove place holder and make backgound image or replace the holder with the image link */
+.imagery-1 {
 
-/* Imagery */
-
+}
 
 /* Icons */
 
