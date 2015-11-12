@@ -4,21 +4,22 @@
 
 /* Color Palette */
 .color-1 {
-    background: #AB3C00;
+    background: #AB4d00;
 }
 
 .color-2 {
-background: #4A4939;
+background: #4A4A42;
 }
 
 .color-3 {
-background: #D6D3A7;
+background: #D6D5C4;
 }
 /* Textures or Patterns*/
 .pattern-1 {
-    background: url();
+    background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/crossword.png);
 }
 .pattern-2 {
+    background: url(http://xoo.me/template/15183/p17ugh52e0mb4heen91en8oqm5-thumb.jpg);
 }
 
 /* Imagery - remove place holder and make backgound image or replace the holder with the image link */
